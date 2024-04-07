@@ -16,3 +16,19 @@ I was the sole mobile developer of the app.
 <p align="center">
 <a href="https://apps.apple.com/in/app/chennai-international-airport/id6447828652" target="_blank"><img src="Images/Chennai/chennai.png" width="1000" title="Channai Airport"></a>
 </p>
+
+## Dubai Culture
+[Chennai Airport](https://chennaiinternationalairport.com/) Dubai Culture is an officially iphone & ipad application for Dubai Culture government organisation Application provides 3D-musiums Map, Indoor Navigation System, Live audio information for places inside tourisam points.
+    implemented augumented reality for increase visit experiance of tourist.
+
+The indoor navigation system was built using ibeacon,acclerometer,magnetometer,step detection,coremotion framework,ARKit Framework
+
+Developed in multi languages - English, Arabic
+
+
+
+##### 🔨Technologies: Swift, MVVM + Clean Architecture, GithHub, Mapbox SDK, Socket.io, Push Notifications, AVFoundation framework for audio,ARKit
+##### 🚀Platform: 📱iOS.
+<p align="center">
+<a href="https://apps.apple.com/in/app/dubai-culture/id926793557" target="_blank"><img src="Images/Dubai/dubai.png" width="1000" title="Dubai Culture"></a>
+</p>
