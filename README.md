@@ -14,5 +14,5 @@ I was the sole mobile developer of the app.
 ##### 🔨Technologies: Swift, MVVM + Clean Architecture, GithHub, Mapbox SDK, Socket.io, Push Notifications, AWS SDK, REST API, COMBINE Framework for API Integrations using FUTURE publishers .
 ##### 🚀Platform: 📱iOS.
 <p align="center">
-<a href="https://apps.apple.com/in/app/chennai-international-airport/id6447828652" target="_blank"><img src="images/chennai/chennai.png" width="1000" title="Channai Airport"></a>
+<a href="https://apps.apple.com/in/app/chennai-international-airport/id6447828652" target="_blank"><img src="Images/Chennai/chennai.png" width="1000" title="Channai Airport"></a>
 </p>
